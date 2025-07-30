@@ -11,7 +11,7 @@ https://docs.google.com/spreadsheets/d/11OtEMBdvp1pCSL9amhh38LJKnRytDBLsNKwU-GMz
 https://drive.google.com/file/d/15NSIqONpDHDXnoqAzif_QtliitKADqCw/view?usp=drivesdk
 ```
 
-### Program oerheitungan akar bilangan genap dan perhitungan kuantitas produk
+### Program perhitungan akar bilangan genap dan perhitungan kuantitas produk
 ```
 https://github.com/sndnmrty/Tugas3JS-SanbercodeQA
 ```
