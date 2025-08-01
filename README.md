@@ -1,4 +1,4 @@
-## PortofolioSoniaQASanbercode
+## PortofolioSoniaQA
 Kumpulan hasil pengerjaan testing sebagai portofolio
 
 ### Test Scenario, Test Case dan eksekusi manual testing
